@@ -1,0 +1,16 @@
+{
+    "name": "sanya/design-pattern",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Snegovoy Alex",
+            "email": "snegovoy.aleksandr@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+    "psr-4":{
+        "App\\DesignPatterns\\":"src/"
+    }
+}
